@@ -1,4 +1,4 @@
-package org.example.Head03_OOP2.example11;
+package org.example.Head03_OOP.example12;
 
 public class SmsNotificationSender implements NotificationSender {
     @Override
