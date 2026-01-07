@@ -1,4 +1,4 @@
-package org.example.Head03_OOP.example10;
+package org.example.Head03_OOP.example11;
 
 public class Rectangle implements Shape {
     private int width;

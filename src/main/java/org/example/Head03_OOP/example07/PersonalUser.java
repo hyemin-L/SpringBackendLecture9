@@ -1,4 +1,4 @@
-package org.example.Head03_OOP.example06;
+package org.example.Head03_OOP.example07;
 
 class PersonalUser extends User {
     private String email;

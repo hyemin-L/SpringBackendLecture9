@@ -1,4 +1,4 @@
-package org.example.Head03_OOP.example07;
+package org.example.Head03_OOP.example08;
 
 public class PolymorphismTest {
     public static void main(String[] args) {

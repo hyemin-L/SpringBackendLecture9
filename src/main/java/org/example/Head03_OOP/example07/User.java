@@ -1,4 +1,4 @@
-package org.example.Head03_OOP.example06;
+package org.example.Head03_OOP.example07;
 
 class User {
     protected String userId;
